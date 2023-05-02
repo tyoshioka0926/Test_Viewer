@@ -1,2 +1,2 @@
 # Test_Viewer
-Viewer Test project
+APS Viewer Test project
